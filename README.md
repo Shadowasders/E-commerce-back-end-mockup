@@ -12,7 +12,8 @@
 
   ## Sample Video
   
-[Uploading Backend video walkthrough.webm…]()
+
+[Backend video walkthrough.webm](https://github.com/Shadowasders/E-commerce-back-end-mockup/assets/99014955/a07fda29-27a9-482d-b3bd-3a8e9830ece9)
 
 
   ## Project Description
